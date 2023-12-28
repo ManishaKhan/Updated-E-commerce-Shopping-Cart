@@ -1,0 +1,297 @@
+{
+  "posts": [
+    {
+      "id":"1",
+      "name":"Wireless Keyboard",
+      "details":" Portronics Hydra 10 /Bluetooth 5.0 + 2.4 GHz, RGB, Type C Charging, Blue Switch, Mechanical Bluetooth, Wireless Gaming Keyboard",
+      "price": "2884",
+      "quantity": 10,
+      "img":"https://plus.unsplash.com/premium_photo-1664194583917-b0ba07c4ce2a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "rating":"4.1",
+
+      
+      "offer1":"Bank OfferFlat ₹200 off on HDFC Bank Credit/Debit Card on 3 months EMI Txns, Min Txn Value ₹10,000",
+      "offer2":"Bank OfferFlat ₹500 off on HDFC Bank Credit/Debit Card on 6 months EMI Txns, Min Txn Value ₹10,000",
+      "offer3":"Special PriceGet extra 35% off (price inclusive of cashback/coupon)",
+      "discount":"76% off",
+      "off":"₹4,299",
+      "review":" 400 Ratings & 20 Reviews",
+
+      "highlights1":"Marshmallow KW100",
+      "highlights2":"Multi-device Keyboard",
+
+      "highlights3":"Battery, Battery Type: AAA",
+      "Warranty":"1 Year Warranty from the Date of Purchase",
+      "highlights4":"Case Material:  Plastic",
+      "highlights5":"Size: Laptop-size",
+      "highlights6":"RGB Lights 16.8 Million Colours, Type C Charging, Detachable Swift Keys, Multi-Media Shortcut Key Function",
+      "highlights7":"Interface: Bluetooth"
+
+    },
+    {
+      "id":"2",
+      "name":"Wireless Mouse",
+      "details":" Logitech B175 / Optical Tracking, 12-Months Battery Life, Ambidextrous Wireless Optical Mouse  (2.4GHz Wireless, Black) ",
+      "price": 699,
+      "quantity": 10,
+      "img":"https://images.unsplash.com/photo-1586349906319-48d20e9d17e5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80",
+      "rating":4.0,
+
+
+      "offer1":"Bank Offer 5% Cashback on Flipkart Axis Bank Card",
+      "offer2":"Extra 10% Off On Computer Accessories on Bought Together",
+      "offer3":"Partner OfferSign-up for Flipkart Pay Later & get free Times Prime Benefits worth ₹10,000",
+      "discount":"30% off",
+      "off":"₹999",
+      "review":" 1,500 Ratings & 200 Reviews",
+
+      "highlights1":"B175 | Optical Tracking, 12-Months Battery Life, Ambidextrous",
+      "highlights2":"Wireless",
+      "highlights3":"Interface: 2.4GHz Wireless",
+      "Warranty":"1 Year Warranty from the Date of Purchase",
+
+      "highlights4":"Optical Mouse",
+      "highlights5":"System Requirements: Windows XP, Vista, 7, Mac OS x 10.5, Linux Kernel 2.6",
+      "highlights6":"Sales Package: 1 Mouse,1 Adapter(unifying receiver ready)",
+      "highlights7":"Controls: 2 Buttons"
+    },
+
+    {
+      "id":"3",
+      "name":"Airdopes",
+      "details":" boAt Airdopes 411ANC with upto 17.5 Hours Playback and ASAP Charge Bluetooth Headset  (Black, True Wireless) ",
+      "price": 1599,
+      "quantity": 10,
+      "img":"https://images.unsplash.com/photo-1605245367818-a9559162b995?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "rating":4.3,
+
+
+      "discount":"67% off",
+      "off":"₹4990",
+      "review":" 26,500 Ratings & 95 Reviews",
+
+      "offer1":"Bank Offer 5% Cashback on Flipkart Axis Bank Card",
+      "offer2":"Special PriceGet extra 33% off (price inclusive of cashback/coupon)",
+      "offer3":"Extra 5% Off on boAT Powerbanks",
+      
+
+      "highlights1":"Airdopes 411ANC",
+      "highlights2":"True Wireless",
+      "highlights3":"Upto 17.5 Hrs(w/o ANC) & 16 Hrs(with ANC)",
+      "Warranty":"1 Year Warranty from the Date of Purchase",
+
+      "highlights4":"With Mic: Yes | ENxTM Technology: Clear Voice Calls",
+      "highlights5":"Bluetooth version: 5.2 and Wireless range: 10 m",
+      "highlights6":"ASAP Charge: 10 Mins Charge= 60 Mins Playback",
+      "highlights7":"Active Noise Cancellation(upto 25dB)"
+    },
+
+    {
+      "id":"4",
+      "name":"APPLE iPad",
+      "details":" APPLE iPad (9th Gen) 64 GB ROM 10.2 inch with Wi-Fi Only (Space Grey) ",
+      "price": 33500,
+      "quantity": 10,
+      "img":"https://images.unsplash.com/photo-1616016048007-9315ac44c696?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "rating":4.6,
+
+      "discount":"1% off",
+      "off":"₹33,900",
+      "review":" 20,510 Ratings & 1,495 Reviews",
+
+      "offer1":"Bank Offer 5% Cashback on Flipkart Axis Bank Card",
+      "offer2":"Bank Offer₹2000 Instant Bank Discount on HDFC Bank Credit and Debit Card EMI Transactions",
+      "offer3":"Extra 10% Off On Combo-Tablet & Tablet Back Covers",
+      
+
+      "highlights1":"MK2K3HN/A",
+      "highlights2":"iPad (9th Gen) | Processor Type: A13 Bionic Chip with 64-bit Architecture",
+      "highlights3":"iOS 15 | Battery: Lithium Polymer",
+      "Warranty":"1 Year Warranty from the Date of Purchase",
+
+      "highlights4":"64 GB ROM",
+      "highlights5":"8 MP Primary Camera | 12 MP Front",
+      "highlights6":"Sensors: Touch ID Sensor, Three-axis Gyro Sensor, Accelerometer, Barometer, Ambient Light Sensor",
+      "highlights7":"Other Display Features : Retina Display, LED-backlit Multi-Touch Display with IPS Technology, True Tone Display, Fingerprint-resistant Oleophobic Coating, Supports Apple Pencil (1st Generation)"
+    },
+
+    {
+      "id":"5",
+      "name":"Gaming Headset ",
+      "details":" ASUS TUF-GAMING-H3 Wired Gaming Headset  (Brown, On the Ear)",
+      "price": 2999,
+      "quantity": 10,
+      "img":"https://plus.unsplash.com/premium_photo-1680346528789-0ffcc13f5ebf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+      "rating":4.5,
+
+
+      "discount":"36% off",
+      "off":"₹4,750",
+      "review":" 49 Ratings & 6 Reviews",
+
+      "offer1":"Bank Offer 5% Cashback on Flipkart Axis Bank Card",
+      "offer2":"Partner OfferPurchase now & get 1 surprise cashback coupon in Future",
+      "offer3":"No cost EMI ₹1,000/month. Standard EMI also available",
+      
+
+      "highlights1":"TUF-GAMING-H3",
+      "highlights2":"On the Ear",
+      "highlights3":"USB Charger",
+      "Warranty":"Headphone with 1 Year Domestic Warranty",
+
+      "highlights4":"With Mic:Yes | Connector type: 3.5 mm | Bluetooth version: No",
+      "highlights5":"Compatible Devices: Laptop, Audio Player, Gaming Console",
+      "highlights6":"Sweat Proof: Yes| Foldable/Collapsible: Yes| Deep Bass: Yes| Water Resistant: No",
+      "highlights7":"Sound Features- Impedance: 32 ohm|  Minimum Frequency Response: 50 Hz | Maximum Frequency Response: 10000 Hz"
+    },
+
+    {
+      "id":"6",
+      "name":"DELL Laptop 2023",
+      "details":" DEll 2023 Ryzen 3 Dual Core 3250U - (8 GB/512 GB SSD/Windows 11 Home) 15s- eq1580AU Thin and Light Laptop  (15.6 Inch, Natural Silver, 1.69 Kg, With MS Office) ",
+      "price": 32990,
+      "quantity": 10,
+      "img":"https://images.unsplash.com/photo-1593642632823-8f785ba67e45?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80",
+      "rating":4.2,
+
+
+      "discount":"17% off",
+      "off":"₹39,995",
+      "review":" 2,373 Ratings & 227 Reviews",
+
+      "offer1":"Bank Offer 5% Cashback on Flipkart Axis Bank Card",
+      "offer2":"Extra 10% OFF on External HDD & SSD when bought with Laptop",
+      "offer3":"EMI starting from ₹1,128/month",
+      
+
+      "highlights1":"15s- eq1580AU",
+      "highlights2":"Thin and Light Laptop | Operating System: Windows 11 Home",
+      "highlights3":"Battery Cell: 3 Cell",
+      "Warranty":"1 Year Onsite Warranty",
+
+      "highlights4":"15.6 Inch Full HD, micro-edge,anti-glare, Brightness: 220 nits, 141 ppi, Color Gamut: 45%NTSC",
+      "highlights5":"Processor Brand: AMD | Processor Name: Ryzen 3 Dual Core | Processor Variant: 3250U | Graphic Processor: AMD Radeon AMD",
+      "highlights6":"SSD: Yes | SSD Capacity: 512 GB| RAM: 8 GB | RAM Type: DDR4",
+      "highlights7":"Touchscreen:No | Screen Size: 39.62 cm (15.6 Inch) | Screen Resolution: 1920 x 1080 Pixel |Screen Type: Full HD, micro-edge,anti-glare, Brightness: 220 nits, 141 ppi, Color Gamut: 45%NTSC | Speakers: Yes | Internal Mic: Yes"
+    },
+
+    {
+      "id":"7",
+      "name": "Back Cover",
+      "details":" deAd Back Cover for APPLE iPhone 14 Plus  (White, Grip Case, Silicon, Pack of: 1)",
+      "price": 598,
+      "quantity": 10,
+     "img":"https://images.unsplash.com/photo-1672906674626-f58e6885f632?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80",
+     "rating":3.5,
+
+
+     "discount":"17% off",
+      "off":"₹39,995",
+      "review":" 8 Ratings & 2 Reviews",
+
+      "offer1":"Bank Offer 5% Cashback on Flipkart Axis Bank Card",
+      "offer2":"Bank Offer₹15 off on UPI Transaction",
+      "offer3":"Special PriceGet extra 32% off (price inclusive of cashback/coupon)",
+      
+
+      "highlights1":"Armad Cover For APPLE iPhone 14 Plus",
+      "highlights2":"APPLE iPhone 14 Plus",
+      "highlights3":"No Source",
+      "Warranty":"6 Months Warranty",
+
+      "highlights4":"Suitable For: Mobile",
+      "highlights5":"Theme: No Theme",
+      "highlights6":"Armad Cover For APPLE iPhone 14 Plus, Pair of Wipes, Micro-Fibre Cloth",
+      "highlights7":"As Hard As Armadillo Skin"
+    },
+
+    {
+      "id":"8",
+      "name":"Wireless Charger", 
+      "details":"RAEGR RG10121_MII Arc 400 Pro 15W Type-C PD [Made in India] Qi-Certified Wireless Charger with Fireproof ABS Charging Pad",
+      "price": 749,
+      "quantity": 10,
+      "img":"https://images.unsplash.com/photo-1633381638729-27f730955c23?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "rating":4.6,
+
+      "discount":"70% off",
+      "off":"₹2,499",
+      "review":" 887 Ratings & 25 Reviews",
+
+      "offer1":"Bank Offer 5% Cashback on Flipkart Axis Bank Card",
+      "offer2":"Bank Offer₹15 off on UPI Transaction",
+      "offer3":"Special PriceGet extra 16% off (price inclusive of cashback/coupon)",
+      
+
+      "highlights1":"RG10121_MII Arc 400 Pro 15W Type-C PD [Made in India] Qi-Certified Wireless Charger with Fireproof ABS",
+      "highlights2":"LED",
+      "highlights3":"No Source",
+      "Warranty":"RAEGR Wireless Charger comes with 1 Year Limited Warranty against manufacturer defects only. To activate warranty, Kindly follow the instructions provided in the manual guidelines / leaflet. The limited warranty does not cover accidental drops, failure of installation, carelessness by the user, normal wear and tear, discoloration / colour fade, mishandled, altered, modified in any way, misused in ways other than its intended purpose or defects caused by owner's usage. Warranty claim can be done by contacting our support email, even after Amazon's return period is over. Please check the support email on the package.",
+
+      "highlights4":"For: For All Qi-Enabled Phones . 15W / 10W for Galaxy S23 Series / S22 Series/ S21 Series/ S20 / S20 Plus / Note 20 / Note 10 / Note 10 Plus / S10 / S10 Plus / S10E / Note 9 / S9 /S9 Plus, 7.5W for iPhone 15/14 / 13 / 12 / 11 Pro Max / 11 Pro/ 11 / iPhone SE (2020) XS MAX / XR / XS / X / 8 / 8 Plus. Also Compatible with OnePlus 9 / OnePlus 9 Pro",
+      "highlights5":"Indicator Present",
+      "highlights6":"Cable Length: 106",
+      "highlights7":"Wireless Standard: QI"
+    },
+
+    {
+      "id":"9",
+      "name":"Glass Protector",
+      "details":"CZARTECH Edge To Edge Tempered Glass for Apple iPhone 12 mini  (Pack of 1)",
+      "price": 399,
+      "quantity": 10,
+      "img":"https://as1.ftcdn.net/v2/jpg/05/60/98/26/1000_F_560982640_KRLnnDaM1U6WNKuhNwts8awKw0Nheo4m.jpg",
+      "rating":4.2,
+
+      "discount":"50% off",
+      "off":"₹799",
+      "review":" 310 Ratings & 63 Reviews",
+
+      "offer1":"Bank Offer 5% Cashback on Flipkart Axis Bank Card",
+      "offer2":"Partner OfferSign-up for Flipkart Pay Later & get free Times Prime Benefits worth ₹10,000",
+      "offer3":"Special PriceGet extra 32% off (price inclusive of cashback/coupon)",
+      
+
+      "highlights1":"Apple iPhone 12 mini",
+      "highlights2":"Transparent",
+      "highlights3":"No Source",
+      "Warranty":"No Warranty",
+
+      "highlights4":"Suitable For: Mobile |Screen Size 5.4 | Edge To Edge Tempered Glass",
+      "highlights5":"Scratch Resistant, Anti Fingerprint, Air-bubble Proof",
+      "highlights6":"Full Coverage Screen Guard- Fingerprint Resistant - Smooth Swiping, Made of High Alumina Glass - HD Clarity : Best in class raw materials chosen to render HD clarity so you can enjoy the original screen resolution, videos and games just the way they are., COMPATIBLE with iPhone 12 Mini",
+      "highlights7":"Tempered Glass, Micro fiber Cloth, Dust removal & Alignment Sticker, Wet Wipes, Warranty & application video guide card"
+    },
+
+    {
+      "id":"10",
+      "name": "Smart Watch",
+      "details":" Fastrack Revoltt FS1|1.83 Display|BT Calling|Fastcharge|110+ Sports Mode|200+ WatchFaces Smartwatch  (Navy Blue Strap, Free Size)",
+      "price": 1799,
+      "quantity": 10,
+     "img":"https://img.freepik.com/free-photo/new-smartwatch-balancing-with-hand_23-2150296477.jpg?w=740&t=st=1695747023~exp=1695747623~hmac=ea5adcc48c036eaf14fce0ef020523c961d1c611b32bc4cdc23e8b3ba2ac4d1d",
+     "rating":4.2,
+
+
+     "discount":"54% off",
+      "off":"₹3,995",
+      "review":" 8 Ratings & 2 Reviews",
+
+      "offer1":"Bank Offer 5% Cashback on Flipkart Axis Bank Card",
+      "offer2":"Partner OfferSign-up for Flipkart Pay Later & get free Times Prime Benefits worth ₹10,000",
+      "offer3":"Partner OfferPurchase now & get 1 surprise cashback coupon in Future",
+      
+
+      "highlights1":"38083PP01",
+      "highlights2":"Revoltt FS1|1.83 Display|BT Calling|Fastcharge|110+ Sports Mode|200+ WatchFaces",
+      "highlights3":"Battery Type: Lithium Polymer",
+      "Warranty":"1 Year Manufacturer Warranty |  Titan customer care at 1800-266-0123 or email us at customercare@titan.co.in | Manufacturing Defects",
+
+      "highlights4":"Large 1.83' UltraVU Display|2.5D Curved Glass, 500 Nits Brightness | 240*284 Resolution | Advanced Chipset | SingleSync BT Calling |AI Voice Assistant, NitroFast Charge : 10 minutes = 1 day use |Upto 7 Days Battery | 110+ Sports Modes | 200+ Watch Faces | 24*7 HRM | Auto Sleep Tracker|Spo2|Stress Monitor",
+      "highlights5":"Smart Notifications | Quick replies, Connect with Fastrack Reflex World App | Seamless Experience | IP68 Water Resistance | In-built Games | Connect with Fastrack Reflex World App | Seamless Experience",
+      "highlights6":"With Call Function | Touchscreen | Fitness & Outdoor",
+      "highlights7":"Call Notifications , Call Answer & Reject, Call Mute, Social Media Notifications, SMS Notifictaions, Other App Notification"
+    }
+
+  ]
+}
